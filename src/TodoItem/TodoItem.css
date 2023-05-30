@@ -1,0 +1,10 @@
+li {
+    width: 350px;
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+
+.done {
+    text-decoration: line-through;
+}
