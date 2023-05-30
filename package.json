@@ -35,5 +35,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://francogomez23800.github.io/TodoReactJs"
+  "homepage": "https://francogomez23800.github.io/TodoReactJs",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
 }
